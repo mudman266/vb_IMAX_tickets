@@ -1,0 +1,13 @@
+C:\School\CSC-139\Chapter7\IMAX Tickets\obj\Debug\IMAX Tickets.vbprojAssemblyReference.cache
+C:\School\CSC-139\Chapter7\IMAX Tickets\obj\Debug\IMAX_Tickets.frmMain.resources
+C:\School\CSC-139\Chapter7\IMAX Tickets\obj\Debug\IMAX_Tickets.Resources.resources
+C:\School\CSC-139\Chapter7\IMAX Tickets\obj\Debug\IMAX_Tickets.splashScreen.resources
+C:\School\CSC-139\Chapter7\IMAX Tickets\obj\Debug\IMAX Tickets.vbproj.GenerateResource.cache
+C:\School\CSC-139\Chapter7\IMAX Tickets\obj\Debug\IMAX Tickets.vbproj.CoreCompileInputs.cache
+C:\School\CSC-139\Chapter7\IMAX Tickets\bin\Debug\IMAX Tickets.exe.config
+C:\School\CSC-139\Chapter7\IMAX Tickets\bin\Debug\IMAX Tickets.exe
+C:\School\CSC-139\Chapter7\IMAX Tickets\bin\Debug\IMAX Tickets.pdb
+C:\School\CSC-139\Chapter7\IMAX Tickets\bin\Debug\IMAX Tickets.xml
+C:\School\CSC-139\Chapter7\IMAX Tickets\obj\Debug\IMAX Tickets.exe
+C:\School\CSC-139\Chapter7\IMAX Tickets\obj\Debug\IMAX Tickets.xml
+C:\School\CSC-139\Chapter7\IMAX Tickets\obj\Debug\IMAX Tickets.pdb
